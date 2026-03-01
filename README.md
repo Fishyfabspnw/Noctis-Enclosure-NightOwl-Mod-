@@ -18,7 +18,7 @@ To build this, Notcis uses the following projects:
 - Hartk's [Dual Nightwatch](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch): a compact dual Bowden extruder based on the Voron Nightwatch
 - Hartk's [Bowden Y-Splitter](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch/STLs/Bowden_Y)
 - [Filamentalist Rewinder - 80mm Axle](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder) from the Enraged Rabbit Community
-- BigTreeTech [MMB 2.0 MCU]([https://github.com/FYSETC/FYSETC-ERB/tree/main/V2.0](https://github.com/bigtreetech/MMB)
+- - **BigTreeTech** – [MMB 2.0 MCU](https://github.com/bigtreetech/MMB)
 - ArmoredTurtle's [TurtleNeck](https://github.com/ArmoredTurtle/TurtleNeck) syncing toolhead buffer
 ---
 

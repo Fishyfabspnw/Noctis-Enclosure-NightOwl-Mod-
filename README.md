@@ -5,14 +5,15 @@ A purpose-built heated enclosure for high-temperature, multi-material 3D printin
 
 ---
 
-## 🚀 What It Does
+## Summary
 
-- Maintains 40–65°C chamber temps  
-- Supports MMU color changes inside heat  
-- Keeps humidity low  
-- Uses PolyDryer-assisted heating  
-- Actively circulates air with 5015 blowers  
-- Built simple and serviceable  
+The goal of the Noctis enclosure is to create a thermally stable, insulated chamber system optimized for high-temperature, multi-material 3D printing.
+
+Noctis is designed to support two primary objectives: sustained elevated chamber temperatures for engineering polymers, and reliable MMU operation within a controlled heated environment.
+
+The system integrates active chamber circulation via 5015 blower fans, environmental monitoring through a BME680 sensor, structured PTFE routing, and LED filament indication — all built around a rigid 2020 extrusion frame with ACM or polycarbonate panel options.
+
+A secondary objective was to keep the enclosure modular, serviceable, and CAN-friendly, requiring only a 24V power source and standard Klipper-compatible communication for full integration.
 
 ---
 

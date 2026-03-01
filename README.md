@@ -7,7 +7,7 @@ A purpose-built heated enclosure for high-temperature, multi-material 3D printin
 
 ## 🚀 What It Does
 
-- Maintains 60–85°C chamber temps  
+- Maintains 40–65°C chamber temps  
 - Supports MMU color changes inside heat  
 - Keeps humidity low  
 - Uses PolyDryer-assisted heating  

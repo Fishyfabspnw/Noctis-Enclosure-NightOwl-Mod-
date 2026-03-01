@@ -20,39 +20,9 @@ Designed to be modular, serviceable, and powered by a simple 24V supply.
 - [Filamentalist Rewinder - 80mm Axle](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder) from the Enraged Rabbit Community
 -  BigTreeTech – [MMB 2.0 MCU](https://github.com/bigtreetech/MMB)
 - ArmoredTurtle's [TurtleNeck](https://github.com/ArmoredTurtle/TurtleNeck) syncing toolhead buffer
+- **Toolhead intergrated filament sensor**
 ---
 
-## 🏗 Core Platform
-
-- 2020 aluminum extrusion frame  
-- Insulated chamber  
-- ACM or Polycarbonate panel options  
-- PTFE guide system integrated through extrusion  
-- CAN bus friendly routing  
-
----
-
-## 🧠 Monitoring & Control
-
-- BME680 sensor integration  
-  - Temperature  
-  - Humidity  
-  - VOC tracking  
-
-- LED filament indicator mod  
-  - Displays currently loaded filament  
-
----
-
-## 🎨 Optimized For
-
-- ASA  
-- ABS  
-- PC  
-- PPS-CF  
-- PETG  
-- TPU  
-- Other high-temp engineering materials 
 
 ## 📸 Photos
 <img width="2240" height="1200" alt="image" src="https://github.com/user-attachments/assets/aeaa3851-6ac0-4711-a42d-1aebd13accbb" />

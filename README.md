@@ -1,7 +1,6 @@
 # 🔥 Noctis – Multi-Material Heated Enclosure
 A purpose-built heated enclosure for high-temperature, multi-material 3D printing.
 
-Designed for thermal stability, structural rigidity, and reliable ASA / engineering-grade output under sustained chamber heat.
 <img width="2240" height="1200" alt="image" src="https://github.com/user-attachments/assets/6c3af454-4e42-492b-9817-b12aafc364f8" />
 
 ---

@@ -13,7 +13,7 @@ Heat is assisted using a PolyDryer-based strategy, reducing filament moisture wh
 
 Designed to be modular, serviceable, and powered by a simple 24V supply.
 
-To build this, Notcis uses the following projects:
+**To build this, Notcis uses the following projects:**
 
 - Hartk's [Dual Nightwatch](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch): a compact dual Bowden extruder based on the Voron Nightwatch
 - Hartk's [Bowden Y-Splitter](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch/STLs/Bowden_Y)

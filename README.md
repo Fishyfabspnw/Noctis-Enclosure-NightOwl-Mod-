@@ -20,7 +20,7 @@ Designed to be modular, serviceable, and powered by a simple 24V supply.
 - [Filamentalist Rewinder - 80mm Axle](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder) from the Enraged Rabbit Community
 -  BigTreeTech – [MMB 2.0 MCU](https://github.com/bigtreetech/MMB)
 - ArmoredTurtle's [TurtleNeck](https://github.com/ArmoredTurtle/TurtleNeck) syncing toolhead buffer
-- **Toolhead intergrated filament sensor**
+- 
 ---
 
 

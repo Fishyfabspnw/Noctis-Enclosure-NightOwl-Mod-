@@ -30,12 +30,13 @@ Noctis adds an enclosed filament/MMU setup with a panel-and-door enclosure, drye
 
 Based on the original [NightOwl](https://github.com/mjonuschat/NightOwl). Noctis is a community mod, not an official NightOwl release.
 
+- [Nebula — ZeroG](https://github.com/ZeroGDesign/Nebula): the door is adapted from Nebula and scaled down to fit Noctis.
 - Hartk's [Dual Nightwatch and Bowden Y-Splitter](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch)
 - [Filamentalist Rewinder](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder) — Enraged Rabbit Community
 - [MMB controller](https://github.com/bigtreetech/MMB) — BIGTREETECH
 - [TurtleNeck](https://github.com/ArmoredTurtle/TurtleNeck) — ArmoredTurtle
 
-NightOwl-derived work is licensed under [GPL-3.0](LICENSE). Original authors' and third-party notices remain applicable. Noctis modifications by FishyFabsPNW, beta released August 30, 2026.
+NightOwl-derived parts use [GPL-3.0](LICENSE). The adapted ZeroG Nebula door uses [CC BY-NC-SA 4.0](https://github.com/ZeroGDesign/Nebula/blob/Nebula1/LICENSE). Original authors' and third-party notices remain applicable. Noctis modifications by FishyFabsPNW, beta released August 30, 2026.
 
 <details>
 <summary>Earlier project images</summary>

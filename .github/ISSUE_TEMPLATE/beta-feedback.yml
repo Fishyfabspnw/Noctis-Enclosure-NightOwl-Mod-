@@ -1,0 +1,34 @@
+name: Beta fit / CAD feedback
+description: Report an adjustment, import issue, or test result for Noctis.
+title: "[Beta] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Release and file format
+      placeholder: v0.1.0-beta.1 — STEP; CAD application and version
+    validations:
+      required: true
+  - type: input
+    id: component
+    attributes:
+      label: Component or body name
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Expected result and observed issue
+      description: Include screenshots showing the part and its location.
+    validations:
+      required: true
+  - type: textarea
+    id: measurements
+    attributes:
+      label: Measurements and test conditions
+      description: Include CAD application/version or print material/settings, as applicable.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed adjustment
+      description: Say whether it has been tested.

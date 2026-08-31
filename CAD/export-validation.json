@@ -1,0 +1,80 @@
+{
+  "file": "Noctis-NightOwl-v0.1.0-beta.1.step",
+  "bytes": 89662627,
+  "solid_count": 3345,
+  "shell_count": 3369,
+  "face_count": 70332,
+  "volume_mm3": 7579608.785793769,
+  "is_null": false,
+  "is_valid": false,
+  "validator": "FreeCAD 1.0.1 / Open CASCADE",
+  "analytic_bounds_mm": {
+    "min": [
+      -538.6958143992509,
+      -517.8815217332877,
+      -219.76166350213174
+    ],
+    "max": [
+      113.04591892682699,
+      599.278000492458,
+      1142.2858035931602
+    ],
+    "size": [
+      651.7417333260779,
+      1117.1595222257456,
+      1362.047467095292
+    ]
+  },
+  "diagnostics": {
+    "invalid_solid_count": 2,
+    "invalid_solids": [
+      {
+        "solid_index": 3266,
+        "faces": 64,
+        "volume_mm3": 20715.054763277265,
+        "center_mm": [
+          -24.87464697433346,
+          176.9730625429899,
+          69.82345404452332
+        ]
+      },
+      {
+        "solid_index": 3272,
+        "faces": 64,
+        "volume_mm3": 20715.054763277258,
+        "center_mm": [
+          23.008289372635105,
+          176.97319486499032,
+          69.82361214169454
+        ]
+      }
+    ],
+    "tessellation_vertices": 3939802,
+    "tessellation_bounds_mm": {
+      "min": [
+        -114.80408107318888,
+        -517.8812407513581,
+        -99.6792428092817
+      ],
+      "max": [
+        113.04591892682699,
+        599.2780004924581,
+        286.7283325840617
+      ]
+    }
+  },
+  "source_solid_instances": 3345,
+  "source_component_occurrences": 1445,
+  "source_hidden_body_instances": 4,
+  "solid_count_matches_source": true,
+  "invalid_body_identification": {
+    "method": "Matched source face count and center of mass",
+    "components": [
+      "MMU PARTS / Dual Nightwatch / Hardware / Motion / LDO-36STH17-1004AHG / Body1",
+      "MMU PARTS / Dual Nightwatch / Hardware / Motion / LDO-36STH17-1004AHG (1) / Body1"
+    ]
+  },
+  "scope_note": "Full root export including invisible components/bodies. Import and solid-count checks passed; whole-shape validity failed. No geometry repairs or fit/thermal testing performed.",
+  "native_archive_note": "Not included: local F3D has external references and standalone import fails; complete F3Z requires saving pending cloud changes.",
+  "sha256": "1c65715c69585ed1840f85b908aa276c0f5fb335a3770890af7fe6f04e347108"
+}

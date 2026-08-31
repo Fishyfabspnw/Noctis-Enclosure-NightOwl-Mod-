@@ -1,5 +1,5 @@
-*.step -text
-*.stp -text
+*.step binary
+*.stp binary
 *.png -text
 *.zip -text
 *.md text eol=lf
